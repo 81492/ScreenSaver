@@ -1,0 +1,9 @@
+D:\Code\Csharp17projects\ScreenSaver\ScreenSaver\bin\Debug\ScreenSaver.exe.config
+D:\Code\Csharp17projects\ScreenSaver\ScreenSaver\bin\Debug\ScreenSaver.exe
+D:\Code\Csharp17projects\ScreenSaver\ScreenSaver\bin\Debug\ScreenSaver.pdb
+D:\Code\Csharp17projects\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.csprojResolveAssemblyReference.cache
+D:\Code\Csharp17projects\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.frmScrnSaver.resources
+D:\Code\Csharp17projects\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.Properties.Resources.resources
+D:\Code\Csharp17projects\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.csproj.GenerateResource.Cache
+D:\Code\Csharp17projects\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.exe
+D:\Code\Csharp17projects\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.pdb
